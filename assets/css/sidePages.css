@@ -115,6 +115,7 @@ input, select, textarea {
 			body, input, select, textarea {
 				font-size: 13pt;
 			}
+            
 
 		}
 
@@ -1780,7 +1781,7 @@ input, select, textarea {
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
 			border-bottom: solid 2px #fff;
-			display: inline-block;
+			display: inline-block;form
 			padding-bottom: 1em;
 			position: relative;
 		}

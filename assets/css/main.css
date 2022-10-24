@@ -2078,7 +2078,7 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #2e3842;
 		}
 
 		.icon.style2 {
@@ -2088,6 +2088,7 @@ input, select, textarea {
 		.icon.style3 {
 			color: #76ddff;
 		}
+		
 
 /* Image */
 
@@ -2604,7 +2605,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: #fff;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2980,7 +2981,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #844900;
 			color: #d3d4e4;
 		}
 
@@ -3351,7 +3352,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #252e2e;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -3780,7 +3781,9 @@ input, select, textarea {
 			order: 2;
 			width: 30%;
 		}
-
+		#cta .button.fit.primary.disabled-link{
+			pointer-events: none;
+		}
 		@media screen and (max-width: 980px) {
 
 			#cta .inner {

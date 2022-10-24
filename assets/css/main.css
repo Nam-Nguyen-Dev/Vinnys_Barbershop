@@ -3858,6 +3858,9 @@ input, select, textarea {
 			#main > header {
 				padding: 8em 3em 6em 3em ;
 			}
+			div.col-6.col-12-xsmall{
+				margin: 50px;
+			}
 
 		}
 

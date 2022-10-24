@@ -471,6 +471,8 @@ input, select, textarea {
 
 			.row.gtr-50.gtr-uniform {
 				margin-top: -0.75em;
+                width: 95%;
+                padding-left: 5rem;
 			}
 
 				.row.gtr-50.gtr-uniform > * {
@@ -959,6 +961,8 @@ input, select, textarea {
 
 					.row.gtr-50.gtr-uniform {
 						margin-top: -0.75em;
+                        width: 95%;
+                        padding-left: 5rem;
 					}
 
 						.row.gtr-50.gtr-uniform > * {
